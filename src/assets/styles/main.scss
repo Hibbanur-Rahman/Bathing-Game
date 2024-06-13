@@ -1,0 +1,19 @@
+@import url(./fonts.scss);
+
+$primary-color:#14539A;
+
+body{
+    font-family: 'Londrina-solid';
+}
+.border-color{
+       border-color: $primary-color !important; 
+}
+.home{
+    height: 100vh !important;
+    background-image: url('../images/Bathroom-background.svg');
+    background-position: center;
+    background-size: cover;
+    color: $primary-color !important;
+   
+}
+
