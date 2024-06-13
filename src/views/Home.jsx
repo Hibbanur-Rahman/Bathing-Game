@@ -13,13 +13,13 @@ const Home = () => {
                                 <div className="col-lg-5">
                                     <h1>Help Bala to<br />take Bath</h1>
                                     <div className="d-block">
-                                        <div class="form-check">
+                                        <div class="form-check mb-5">
                                             <input class="form-check-input" type="checkbox" value="" id="check" />
                                         </div>
                                         <button type="button" className='skip-btn'>Skip to<br />Checklist</button>
                                     </div>
                                 </div>
-                                <div className="col-lg-7">
+                                <div className="col-lg-7 d-flex align-items-end">
                                     <div className="boy-bathtub w-100">
                                         <img src={image1} alt="boy-bathtub" className='w-100' />
                                     </div>
