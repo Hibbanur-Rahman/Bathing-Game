@@ -1,4 +1,4 @@
-import '../assets/styles/style-Home.css'
+import '../assets/styles/style-Home.scss'
 import image1 from '../assets/images/boy-bathtub.svg'
 
 const Home = () => {
