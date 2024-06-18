@@ -1,0 +1,23 @@
+.close-btn {
+    background-color: transparent;
+    border: none;
+    color: #FF4300;
+    margin-bottom: 60px;
+}
+
+.menu-box {
+    max-width: 778px;
+    padding: 36px;
+    border-radius: 20px;
+    border: 11px solid #14539A;
+    background: #85BBE9;
+}
+
+.menu-box h3 {
+    color: #14539A;
+    font-family: "Londrina-solid";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
